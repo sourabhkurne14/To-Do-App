@@ -59,4 +59,6 @@ npm run dev
 
 4.**Test Credentials:** (for Reviewer)
 Email: messi@gmail.com
-Password: messi@123      
+Password: messi@123 
+**OR**
+signup
