@@ -14,7 +14,7 @@ This ia a simle multi-user To-Do list application built using **React.js**, **Go
 ----
 
 ## Live Demo
-- Go to https://to-do-app-xi-ashen-93.vercel.app/ as it is deployed on vercel
+- Go to https://to-do-app-git-main-sourabhs-projects-1c02acd8.vercel.app/ as it is deployed on vercel
 
 ----
 
