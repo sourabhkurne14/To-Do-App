@@ -48,7 +48,7 @@ To-Do-List/
 
 ## Steps to run the Project 
 1.**Clone the repo**
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/sourabhkurne14/To-Do-App.git
 cd todo-app
 
 2.**Install dependencies**
