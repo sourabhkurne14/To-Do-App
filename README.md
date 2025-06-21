@@ -47,16 +47,16 @@ To-Do-List/
 ----
 
 ## Steps to run the Project 
-1.**Clone the repo**
+1.**Clone the repo:**
 git clone https://github.com/sourabhkurne14/To-Do-App.git
 cd todo-app
 
-2.**Install dependencies**
+2.**Install dependencies:**
 npm install
 
-3.**Start the app**
+3.**Start the app:**
 npm run dev
 
-4.**Test Credentials** (for Reviewer)
+4.**Test Credentials:** (for Reviewer)
 Email: messi@gmail.com
 Password: messi@123      
